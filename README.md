@@ -1,1 +1,1 @@
-# RetaiStoreApp
+# RetailStoreApp

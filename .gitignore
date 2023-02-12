@@ -1,0 +1,9 @@
+# .VS Code
+.vscode/*
+
+# bin folder
+**/bin/
+
+#obj Debug folder
+**/obj/*.nuget.*
+**/obj/Debug/

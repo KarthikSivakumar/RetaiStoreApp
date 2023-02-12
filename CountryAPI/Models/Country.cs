@@ -6,6 +6,7 @@ namespace CountryAPI.Models
     {
         public int CountryID { get; set; }
         public int RegionID { get; set; }
+        public string CountryCode { get; set; }
         public string CountryName { get; set; }
     }
 }

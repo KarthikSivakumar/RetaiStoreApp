@@ -1,0 +1,207 @@
+[
+    {
+        "countryID": 1,
+        "countryName": "Afghanistan",
+        "RegionName": "Southern and Central Asia"
+    },
+    {
+        "countryID": 2,
+        "countryName": "Albania",
+        "RegionName": "Southern Europe"
+    },
+    {
+        "countryID": 3,
+        "countryName": "Algeria",
+        "RegionName": "Northern Africa"
+    },
+    {
+        "countryID": 4,
+        "countryName": "American Samoa",
+        "RegionName": "Polynesia"
+    },
+    {
+        "countryID": 5,
+        "countryName": "Andorra",
+        "RegionName": "Southern Europe"
+    },
+    {
+        "countryID": 6,
+        "countryName": "Angola",
+        "RegionName": "Central Africa"
+    },
+    {
+        "countryID": 7,
+        "countryName": "Anguilla",
+        "RegionName": "Caribbean"
+    },
+    {
+        "countryID": 8,
+        "countryName": "Antarctica",
+        "RegionName": "Antarctica"
+    },
+    {
+        "countryID": 9,
+        "countryName": "Antigua and Barbuda",
+        "RegionName": "Caribbean"
+    },
+    {
+        "countryID": 10,
+        "countryName": "Argentina",
+        "RegionName": "South America"
+    },
+    {
+        "countryID": 11,
+        "countryName": "Armenia",
+        "RegionName": "Middle East"
+    },
+    {
+        "countryID": 12,
+        "countryName": "Aruba",
+        "RegionName": "Caribbean"
+    },
+    {
+        "countryID": 13,
+        "countryName": "Australia",
+        "RegionName": "Australia and New Zealand"
+    },
+    {
+        "countryID": 14,
+        "countryName": "Austria",
+        "RegionName": "Western Europe"
+    },
+    {
+        "countryID": 15,
+        "countryName": "Azerbaijan",
+        "RegionName": "Middle East"
+    },
+    {
+        "countryID": 16,
+        "countryName": "Bahamas",
+        "RegionName": "Caribbean"
+    },
+    {
+        "countryID": 17,
+        "countryName": "Bahrain",
+        "RegionName": "Middle East"
+    },
+    {
+        "countryID": 18,
+        "countryName": "Bangladesh",
+        "RegionName": "Southern and Central Asia"
+    },
+    {
+        "countryID": 19,
+        "countryName": "Barbados",
+        "RegionName": "Caribbean"
+    },
+    {
+        "countryID": 20,
+        "countryName": "Belarus",
+        "RegionName": "Eastern Europe"
+    },
+    {
+        "countryID": 21,
+        "countryName": "Belgium",
+        "RegionName": "Western Europe"
+    },
+    {
+        "countryID": 22,
+        "countryName": "Belize",
+        "RegionName": "Central America"
+    },
+    {
+        "countryID": 23,
+        "countryName": "Benin",
+        "RegionName": "Western Africa"
+    },
+    {
+        "countryID": 24,
+        "countryName": "Bermuda",
+        "RegionName": "North America"
+    },
+    {
+        "countryID": 25,
+        "countryName": "Bhutan",
+        "RegionName": "Southern and Central Asia"
+    },
+    {
+        "countryID": 26,
+        "countryName": "Bolivia",
+        "RegionName": "South America"
+    },
+    {
+        "countryID": 27,
+        "countryName": "Bosnia and Herzegovina",
+        "RegionName": "Southern Europe"
+    },
+    {
+        "countryID": 28,
+        "countryName": "Botswana",
+        "RegionName": "Southern Africa"
+    },
+    {
+        "countryID": 29,
+        "countryName": "Bouvet Island",
+        "RegionName": "Antarctica"
+    },
+    {
+        "countryID": 30,
+        "countryName": "Brazil",
+        "RegionName": "South America"
+    },
+    {
+        "countryID": 31,
+        "countryName": "British Indian Ocean Territory",
+        "RegionName": "Eastern Africa"
+    },
+    {
+        "countryID": 32,
+        "countryName": "Brunei",
+        "RegionName": "Southeast Asia"
+    },
+    {
+        "countryID": 33,
+        "countryName": "Bulgaria",
+        "RegionName": "Eastern Europe"
+    },
+    {
+        "countryID": 34,
+        "countryName": "Burkina Faso",
+        "RegionName": "Western Africa"
+    },
+    {
+        "countryID": 35,
+        "countryName": "Burundi",
+        "RegionName": "Eastern Africa"
+    },
+    {
+        "countryID": 36,
+        "countryName": "Cambodia",
+        "RegionName": "Southeast Asia"
+    },
+    {
+        "countryID": 37,
+        "countryName": "Cameroon",
+        "RegionName": "Central Africa"
+    },
+    {
+        "countryID": 38,
+        "countryName": "Canada",
+        "RegionName": "North America"
+    },
+    {
+        "countryID": 39,
+        "countryName": "Cape Verde",
+        "RegionName": "Western Africa"
+    },
+    {
+        "countryID": 40,
+        "countryName": "Cayman Islands",
+        "RegionName": "Caribbean"
+    },
+    {
+        "countryID": 41,
+        "countryName": "India",
+        "RegionName": "Southern and Central Asia"
+    }
+]

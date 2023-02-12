@@ -1,6 +1,6 @@
 using System;
 
-namespace RetailStoreApp.Models
+namespace CountryAPI.Models
 {
     public class Region
     {

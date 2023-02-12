@@ -1,0 +1,13 @@
+[{
+    "currencyID":1,
+    "currencyCode":"INR",
+    "currencyName":"Indian Rupee",
+    "countryIDs":[41]
+},
+{
+    "currencyID":2,
+    "currencyCode":"USD",
+    "currencyName":"US Dollar",
+    "countryIDs":[4,42]
+}
+]

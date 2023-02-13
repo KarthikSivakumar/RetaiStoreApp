@@ -1,13 +1,17 @@
 using System;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 
-namespace CurrencyAPI.Models
+namespace CurrencyAPI.Models;
+
+public class Currency
 {
-    public class Currency
-    {
-        public int CurrencyID { get; set; }
-        public string CurrencyCode { get; set; }
-        public string CurrencyName { get; set; }
-        public IEnumerable<int> CountryIDs {get; set;}
-        
-    }
+    [BsonId]
+    [BsonRepresentation(BsonType.ObjectId)]
+    public string? Id { get; set; }
+    public int CurrencyID { get; set; }
+    public string CurrencyCode { get; set; } = null!;
+    public string CurrencyName { get; set; } = null!;
+    public IEnumerable<int> CountryIDs { get; set; } = null!;
+
 }

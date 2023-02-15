@@ -4,7 +4,7 @@ using BillingAPI.Models;
 namespace BillingAPI.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class BillingController : ControllerBase
 {
     private readonly ILogger<BillingController> _logger;

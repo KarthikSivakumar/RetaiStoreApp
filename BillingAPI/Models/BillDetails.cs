@@ -8,6 +8,6 @@ namespace BillingAPI.Models
         public DateTime BillDate {get;set;}
         public double BillTotal { get; set; }
         public int ItemCount { get; set; }
-        public IEnumerable<Guid> ProductIDs { get; set; }
+        public IEnumerable<Guid> ProductIDs { get; set; }= null!;
     }
 }

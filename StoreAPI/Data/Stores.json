@@ -1,0 +1,67 @@
+[
+    {
+        "storeID": 1,
+        "locationID": 5,
+        "storeName": "Walmart"
+    },
+    {
+        "storeID": 2,
+        "locationID": 5,
+        "storeName": "Dow Jones"
+    },
+    {
+        "storeID": 3,
+        "locationID": 6,
+        "storeName": "Reliance Smart Point"
+    },
+    {
+        "storeID": 4,
+        "locationID": 6,
+        "storeName": "Big Bazaar"
+    },
+    {
+        "storeID": 5,
+        "locationID": 7,
+        "storeName": "Spar"
+    },
+    {
+        "storeID": 6,
+        "locationID": 4,
+        "storeName": "DMart"
+    },
+    {
+        "storeID": 7,
+        "locationID": 3,
+        "storeName": "Nike"
+    },
+    {
+        "storeID": 8,
+        "locationID": 4,
+        "storeName": "Pepsi"
+    },
+    {
+        "storeID": 9,
+        "locationID": 5,
+        "storeName": "Reebok"
+    },
+    {
+        "storeID": 10,
+        "locationID": 2,
+        "storeName": "Nike"
+    },
+    {
+        "storeID": 11,
+        "locationID": 6,
+        "storeName": "Reebok"
+    },
+    {
+        "storeID": 12,
+        "locationID": 1,
+        "storeName": "Pepsi"
+    },
+    {
+        "storeID": 13,
+        "locationID": 1,
+        "storeName": "Nike"
+    }
+]

@@ -1632,11 +1632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Karthik_learnings\\Tiger Analytics\\Git Repo\\RetailStoreApp\\CountryAPI\\CountryAPI.csproj",
-      "projectName": "CountryAPI",
-      "projectPath": "E:\\Karthik_learnings\\Tiger Analytics\\Git Repo\\RetailStoreApp\\CountryAPI\\CountryAPI.csproj",
+      "projectUniqueName": "E:\\Karthik_learnings\\Tiger Analytics\\Git Repo\\RetailStoreApp\\LocationAPI\\LocationAPI.csproj",
+      "projectName": "LocationAPI",
+      "projectPath": "E:\\Karthik_learnings\\Tiger Analytics\\Git Repo\\RetailStoreApp\\LocationAPI\\LocationAPI.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Karthik_learnings\\Tiger Analytics\\Git Repo\\RetailStoreApp\\CountryAPI\\obj\\",
+      "outputPath": "E:\\Karthik_learnings\\Tiger Analytics\\Git Repo\\RetailStoreApp\\LocationAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"

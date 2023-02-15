@@ -1,7 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 using CurrencyAPI.Models;
-using RestSharp;
 using CurrencyAPI.Services;
 
 namespace CurrencyAPI.Controllers;
@@ -12,8 +10,7 @@ public class CurrencyController : ControllerBase
 {
     private readonly ILogger<CurrencyController> _logger;
     private readonly CurrencyService _currencyService;
-    //private readonly IWebHostEnvironment _hostingEnvironment;
-
+    
     public CurrencyController(ILogger<CurrencyController> logger, CurrencyService currencyService)//, IWebHostEnvironment hostEnvironment)
     {
         _logger = logger;
@@ -21,28 +18,7 @@ public class CurrencyController : ControllerBase
         _currencyService = currencyService;
     }
 
-    // [HttpGet(Name = "GetCurrency")]
-    // public IEnumerable<Currency> Get()
-    // {
-    //     List<Currency> currencies = new List<Currency>();
-    //     string rootPath = _hostingEnvironment.ContentRootPath;
-    //     string absolutePath = Path.Combine(rootPath, "Data/Currencies.json");
-    //     try
-    //     {
-    //         if (System.IO.File.Exists(absolutePath))
-    //         {
-    //             currencies = JsonConvert.DeserializeObject<List<Currency>>(System.IO.File.ReadAllText(absolutePath));
-    //         }
-    //     }
-    //     catch (Exception ex)
-    //     {
-    //         _logger.Log(LogLevel.Error, ex, null, Array.Empty<object>());
-    //     }
-
-    //     return currencies;
-    // }
-
-    [HttpGet]
+    [HttpGet(Name = "GetCurrency")]
     public async Task<List<Currency>> Get() =>
         await _currencyService.GetAsync();
 

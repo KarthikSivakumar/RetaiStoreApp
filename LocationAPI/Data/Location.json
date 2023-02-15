@@ -1,0 +1,59 @@
+[
+    {
+        "countryID": 1,
+        "locationID": 1,
+        "regionID": 1,
+        "stateID": 1,
+        "cityID": 1,
+        "locationName": "Asia-Afghan-Kabul-Kabul"
+    },
+    {
+        "countryID": 2,
+        "locationID": 2,
+        "regionID": 2,
+        "stateID": 1,
+        "cityID": 1,
+        "locationName": "Europe-Albania-Tirana"
+    },
+    {
+        "countryID": 3,
+        "locationID": 3,
+        "regionID": 3,
+        "stateID": 1,
+        "cityID": 1,
+        "locationName": "Africa-Algeria"
+    },
+    {
+        "countryID": 4,
+        "locationID": 4,
+        "regionID": 1,
+        "stateID": 1,
+        "cityID": 1,
+        "locationName": "Asia-India-TamilNadu-Chennai"
+    },
+    {
+        "countryID": 5,
+        "locationID": 5,
+        "regionID": 4,
+        "stateID": 1,
+        "cityID": 2,
+        "locationName": "North America-United States of America-Florida-Tampa"
+    },
+    {
+        "countryID": 4,
+        "locationID": 6,
+        "regionID": 1,
+        "stateID": 1,
+        "cityID": 2,
+        "locationName": "Asia-India-TamilNadu-Coimbatore"
+    }
+    ,
+    {
+        "countryID": 4,
+        "locationID": 7,
+        "regionID": 1,
+        "stateID": 2,
+        "cityID": 1,
+        "locationName": "Asia-India-Karnataka-Bengaluru"
+    }
+]

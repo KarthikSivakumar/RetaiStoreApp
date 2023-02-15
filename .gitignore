@@ -7,3 +7,6 @@
 #obj Debug folder
 **/obj/*.nuget.*
 **/obj/Debug/
+
+#node_modules
+**/node_modules/

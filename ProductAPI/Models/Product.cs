@@ -8,7 +8,8 @@ namespace ProductAPI.Models
         public int StoreID { get; set; }
         public string ProductName { get; set; } = null!;
         public double Price { get; set; }
-        public DateTime EffectiveDate { get; set; }
+        public DateTime EffectiveStartDate { get; set; }
+        public DateTime EffectiveEndDate { get; set; }
         public bool Active { get; set; }
 
     }

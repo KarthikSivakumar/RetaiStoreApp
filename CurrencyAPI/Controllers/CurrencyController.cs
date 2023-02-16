@@ -10,11 +10,10 @@ public class CurrencyController : ControllerBase
 {
     private readonly ILogger<CurrencyController> _logger;
     private readonly CurrencyService _currencyService;
-    
-    public CurrencyController(ILogger<CurrencyController> logger, CurrencyService currencyService)//, IWebHostEnvironment hostEnvironment)
+
+    public CurrencyController(ILogger<CurrencyController> logger, CurrencyService currencyService)
     {
         _logger = logger;
-        // _hostingEnvironment = hostEnvironment;
         _currencyService = currencyService;
     }
 
